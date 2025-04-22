@@ -5,7 +5,7 @@ textarea_html: >-
 colors:
   hamburger-color: '#ffffff'
   background-color: '#ffee70'
-  textarea-background-color: '#ffe001'
+  textarea-background-color: '#ffffff'
   border-color: '#ffffff'
   link-color: '#2f3031'
   hover-link-color: '#ffee70'
