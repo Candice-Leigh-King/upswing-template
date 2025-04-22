@@ -1,7 +1,8 @@
 textarea_html: >-
-  <p><a href="/#services">services</a></p><p><a
-  href="/#reviews">review</a></p><p><a href="/#gallery">gallery</a></p><p><a
-  href="/#contact">contact</a></p>
+  <h4><a href="/new-page.html"><strong>Services</strong></a></h4><h4><a
+  href="/#reviews"><strong>Review</strong></a></h4><h4><a
+  href="/#gallery"><strong>Gallery</strong></a></h4><h4><a
+  href="/#contact"><strong>Contact</strong></a></h4>
 colors:
   hamburger-color: '#ffffff'
   background-color: '#ffee70'
