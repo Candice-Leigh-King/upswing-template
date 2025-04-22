@@ -1,0 +1,38 @@
+---
+layout: About Us
+seo:
+  title: Ultimate Template for Creators
+  description: >-
+    Website templates for content creators and influencers. This website comes
+    with a hidden media kit so creators can easily send media kits to prospect
+    brands.
+  keywords: websites for content creators, websites for influencers,
+  social-alt: >-
+    Website templates for content creators and influencers. This website comes
+    with a hidden media kit so creators can easily send media kits to prospect
+    brands.
+  url: https://kingcode.uk/templates
+  social-share_image: /images/website-for-creators-template-ultimate.png
+content-blocks:
+  - _section-type: hero
+    hero: Who We Are
+    hero-image: /uploads/green-and-orange-woman-musicians-facebook-cover.png
+    hero-color: '#ffee70'
+    hero-font: Poppins, sans-serif
+    content-block-link:
+  - _section-type: textarea
+    textarea_html:
+    subheading_html:
+    colors:
+      background-color:
+      text-color:
+      subheading-color:
+      top-line-color:
+      left-line-color:
+      link-color:
+      link-hover-color:
+    fonts:
+      subheading-font:
+      text-font:
+    content-block-link:
+---
