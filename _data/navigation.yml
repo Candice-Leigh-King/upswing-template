@@ -1,8 +1,7 @@
 textarea_html: >-
   <h6><a href="/about-us.html" title="About Us" target="_blank"
-  rel="noopener"><strong>About</strong></a></h6><h6><a
-  href="/#reviews"><strong>Review</strong></a></h6><h6><a
-  href="/#gallery"><strong>Gallery</strong></a></h6><h6><a
+  rel="noopener"><strong>About</strong></a></h6><h6><a href="/Projects.html"
+  title="Projects"><strong>Projects</strong></a></h6><h6><a
   href="/#contact"><strong>Contact</strong></a></h6>
 colors:
   hamburger-color: '#ffffff'
