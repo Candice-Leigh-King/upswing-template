@@ -348,7 +348,7 @@
 </style>
 
 <section id="content-blocks-1" class="center">
-  <section id="Home"  class=" padded-sides banner grid center" style="background-image: url('/uploads/1.png');">
+  <section id=""  class=" padded-sides banner grid center" style="background-image: url('/uploads/website-home-page-2.jpg');">
     <div class="col-12-middle" >
       <h1 class="reveal fade-up hero-color hero-font"></h1>
     </div>
@@ -458,7 +458,7 @@
 <section id="content-blocks-2">
   <section id="about" class="grid-middle textarea-content-block padded background-color">
     <div class="col-8_sm-12 left textarea-color textarea-font reveal padded-sides fade-left">
-      <p class=" "><p>UpswingSA is a registered non profit company dedicated to reducing landfill waste and promoting skills development. </p><p>We provide a platform where community members can donate unwanted goods, giving others the chance to repurpose these items in creative ways that generate additional income opportunities.</p><p>Find out more about what we do on our <a href="/about-us.html" title="About"><strong>About</strong></a> page.</p></p>
+      <p class=" "><p>UpswingSA is a registered non profit company dedicated to reducing landfill waste and promoting skills development. </p><p>We provide a platform where community members can donate unwanted goods, giving others the chance to repurpose these items in creative ways that generate additional income opportunities.</p><p>Find out more about what we do on our <strong>About</strong> page.</p></p>
     </div>
     <div class="col-4_sm-12 grid center top padded-sides reveal fade-right">
       <div class="col-12 grid-center" >
@@ -590,7 +590,7 @@ Each item is designed and made by one of our incredible staff using materials sa
 
 Explore our range of pet beds, cushions, toys and more here!
 </p> 
-                <a href="https://peek.org.za/store/upswingsa" class="button-color"> <b>SHOP</b></a>
+                <a href="/#contact" class="button-color"> <b>SHOP</b></a>
             </div>
           </div>
         </div> 
@@ -615,7 +615,7 @@ Each item is designed and made by one of our incredible staff using materials sa
 
 Explore our range of pet beds, cushions, toys and more here!
 <br>
-        <a href="https://peek.org.za/store/upswingsa" class="button-color link-background-color"> <b>SHOP</b></a>
+        <a href="/#contact" class="button-color link-background-color"> <b>SHOP</b></a>
       </p>
     </div>
   </div>    
@@ -783,7 +783,7 @@ Each item has been sourced from local communities looking for more sustainable w
 Shop our range!
 
  </p>
-                  <a href="https://www.yaga.co.za/upswing-sa" class=" button-color"> <b>THRIFT SHOP</b></a> 
+                  <a href="/#contact" class=" button-color"> <b>THRIFT SHOP</b></a> 
               </div>
             </div>
           </div> 
@@ -809,7 +809,7 @@ Each item has been sourced from local communities looking for more sustainable w
 Shop our range!
 
 <br>
-          <a href="https://www.yaga.co.za/upswing-sa" class=" button-color link-background-color"> <b>THRIFT SHOP</b></a>
+          <a href="/#contact" class=" button-color link-background-color"> <b>THRIFT SHOP</b></a>
         </p>
       </div>
       
@@ -857,17 +857,74 @@ Find out more on how you can donate by reaching out today!<br>
     <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[5]">
         <span class="cms-editor-button"></span>
       <style>
+  #content-blocks-5 .background-color
+  {background-color: #ffee70;}
 
-  #content-block-5 .form-background-color
+  #content-blocks-5 .square-media
+    {border: 4px solid #ffee70;}
+
+  #content-blocks-5 .subheading-color 
+    {color: #000000;}
+
+  #content-blocks-5 .subheading-font 
+    {font-family: Poppins, sans-serif;}
+  
+  #content-blocks-5 .text-background-color 
+    {background-color: #ffe001;}
+
+  #content-blocks-5 .text-font 
+    {
+    font-family: Poppins, sans-serif;
+    font-size: 1.3rem;
+    } 
+
+  #content-blocks-5 .text-color 
+    {color: #000000;}
+
+@media(max-width:576px) 
+ {
+  #content-blocks-5 .text-font 
+    {font-size: 1rem;} 
+ }
+</style>
+
+<section id="content-blocks-5">
+  <section data-cms-bind class="padded-sides  media-kit background-color">
+    <div id="" class="grid background-color media-kit-gallery-with-link">
+      <h4 class="col-12 subheading-font subheading-color padded-top">Our Previous Work</h4>
+      <a href="" target="_blank" class="square-media col-3_sm-6" style="background-image:url(/uploads/2l8a6227.jpg); ">
+        <p class="text-background-color text-font text-color"></p>
+      </a>  
+    
+      <a href="" target="_blank" class="square-media col-3_sm-6" style="background-image:url(/uploads/img-3695.jpg); ">
+        <p class="text-background-color text-font text-color"></p>
+      </a>
+
+      <a href="" target="_blank"  class="square-media col-3_sm-6" style="background-image:url(); ">
+        <p class="text-background-color text-font text-color"></p>
+      </a>
+
+      <a href="" target="_blank"  class="square-media col-3_sm-6" style="background-image:url(); ">
+        <p class="text-background-color text-font text-color"></p>
+      </a>
+    </div>
+  </section>  
+</section>
+    
+    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[6]">
+        <span class="cms-editor-button"></span>
+      <style>
+
+  #content-block-6 .form-background-color
    {background-color: #ffffff;}
  
-  #content-block-5 .form-heading-color
+  #content-block-6 .form-heading-color
    {color: #000000;}
  
-  #content-block-5 .form-heading-font
+  #content-block-6 .form-heading-font
    {font-family: Poppins, sans-serif;}
  
-   #content-block-5 .form-border-color
+   #content-block-6 .form-border-color
    {
    border: solid 4px #ffffff;
    border-top-left-radius: 0px;
@@ -878,7 +935,7 @@ Find out more on how you can donate by reaching out today!<br>
  
    @media(max-width:768px) 
    {
-     #content-block-5 .form-border-color
+     #content-block-6 .form-border-color
        {
        border-top-left-radius: 0px;
        border-top-right-radius: 0px;
@@ -889,7 +946,7 @@ Find out more on how you can donate by reaching out today!<br>
  
  @media(max-width:576px) 
    {
-     #content-block-5 .form-border-color
+     #content-block-6 .form-border-color
      {
      border-top-left-radius: 0px;
      border-top-right-radius: 0px;
@@ -898,119 +955,119 @@ Find out more on how you can donate by reaching out today!<br>
      } 
    }
  
-  #content-block-5 .textarea-background-color
+  #content-block-6 .textarea-background-color
    {background-color: #ffffff;}
  
-  #content-block-5 .form-subheading-font
+  #content-block-6 .form-subheading-font
    {font-family: Poppins, sans-serif;}
  
-  #content-block-5 .form-subheading-color
+  #content-block-6 .form-subheading-color
    {color: #1f1f1f;}
  
  
-  #content-block-5 .input-text 
+  #content-block-6 .input-text 
    {border-bottom: solid 2px #0e0f0f; 
    }
   
-  #content-block-5 .dropdown
+  #content-block-6 .dropdown
   {background-color: #ffffff;} ;}
  
-   #content-block-5 .input-text:focus 
+   #content-block-6 .input-text:focus 
    {border-bottom: solid 2px #1f1f1f; }
 
 
   
    /* Chrome/Opera/Safari */
-  #content-block-5 input::-webkit-input-placeholder 
+  #content-block-6 input::-webkit-input-placeholder 
    { 
    color: #0e0f0f;
    font-family: Poppins, sans-serif;
    }
  
    /* Chrome/Opera/Safari */
-  #content-block-5 input::-webkit-input-placeholder:focus 
+  #content-block-6 input::-webkit-input-placeholder:focus 
    {border-bottom: solid 2px #1f1f1f; }
  
    /* Firefox 19+ */
-  #content-block-5 input::-moz-placeholder 
+  #content-block-6 input::-moz-placeholder 
      {color: #0e0f0f;}
  
-  #content-block-5 input::-moz-placeholder:focus
+  #content-block-6 input::-moz-placeholder:focus
    {border-bottom: solid 2px #1f1f1f; }
  
    /* IE 10+ */
-  #content-block-5 input::-ms-input-placeholder 
+  #content-block-6 input::-ms-input-placeholder 
      {
      color: #0e0f0f;
      font-family: Poppins, sans-serif;
      }
  
-  #content-block-5 input::-ms-input-placeholder:focus
+  #content-block-6 input::-ms-input-placeholder:focus
    {border-bottom: solid 2px #1f1f1f; }  
  
    /* Firefox 18- */
-  #content-block-5 input::-moz-placeholder 
+  #content-block-6 input::-moz-placeholder 
      {
      color: #0e0f0f;
      font-family: Poppins, sans-serif;
      }
    
-   #content-block-5 input::-moz-placeholder:focus 
+   #content-block-6 input::-moz-placeholder:focus 
      {border-bottom: solid 2px #1f1f1f; }
  
-  #content-block-5 input::-moz-placeholder
+  #content-block-6 input::-moz-placeholder
    {
    color: #0e0f0f;
    font-family: Poppins, sans-serif;
    }
   
-  #content-block-5 input::placeholder:focus
+  #content-block-6 input::placeholder:focus
      {border-bottom: solid 2px #1f1f1f; }
  
-  #content-block-5 input::placeholder 
+  #content-block-6 input::placeholder 
      {
      color: #0e0f0f;
      font-family: Poppins, sans-serif;
      }
  
-  #content-block-5 input, textarea, select, option
+  #content-block-6 input, textarea, select, option
      {
      color: #0e0f0f;
      font-family: Poppins, sans-serif;
      }
    
-  #content-block-5  input:focus, textarea:focus,
+  #content-block-6  input:focus, textarea:focus,
      {border-bottom: 2px solid #1f1f1f;}
  
-  #content-block-5 textarea::placeholder 
+  #content-block-6 textarea::placeholder 
    {
    color: #0e0f0f;
    font-family: Poppins, sans-serif;
    }
  
-  #content-block-5 .button-text-color
+  #content-block-6 .button-text-color
    {
    color: #131212;
    font-family: Poppins, sans-serif;
    }
  
-  #content-block-5 .button-font 
+  #content-block-6 .button-font 
    {font-family: Poppins, sans-serif;} 
  
-  #content-block-5 .button-text-color:hover
+  #content-block-6 .button-text-color:hover
    {color: #ffe001;}
  
-  #content-block-5 .button-color
+  #content-block-6 .button-color
    {
    background-color: #ffe001;
    border: 1px solid #ffe001;
    }
  
-  #content-block-5 .button-color:hover
+  #content-block-6 .button-color:hover
    {background-color: transparent;}
  </style>
  
- <section id="content-block-5"> 
+ <section id="content-block-6"> 
    <section id="contact" class="padded grid-center form-background-color banner" style="background-image: url('');">
      <h2 class="reveal form-heading-color form-heading-font  fade-up">Work With Us</h2>
      <form method="post" action="/success.html" class="enquiry col-12 grid-center capped-width">

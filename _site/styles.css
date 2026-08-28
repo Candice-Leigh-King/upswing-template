@@ -531,7 +531,7 @@ header
 
 .logo-home img
   { 
-  max-width: 5rem;
+  max-height: 5rem;
   padding-top: 20px;
   }
 
@@ -582,7 +582,7 @@ header
   {
   top: 300px;  
   right: 0px;
-  z-index: 3;
+  z-index: 4;
   position: fixed;
   padding: 1.5% 0.5% 1.5% 1.5%;
   border-radius: 0%;
@@ -710,6 +710,7 @@ textarea::placeholder {color: #cbcbcb;}
   margin: 0;
   width: 100%;
   border: none;
+  border-radius: 0px;
   transition: all .5s;
   padding: .7rem 0 .5rem;
   background-color: rgba(0,0,0,0);

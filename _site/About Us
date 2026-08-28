@@ -8,10 +8,10 @@
       <meta name="viewport" content="width=device-width" />
 
       <!-- Meta data for SEO purposes. -->
-      <title> Media Kit </title>
+      <title> UpswingSA </title>
 
-      <meta name="description" content="Get Paid Website Template. Brands will start begging to work with you… no matter your rate! Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
-      <meta name="keywords" content="beautiful website themes, beautiful website templates, wordpress template, cloudcannon template, website for content creators, media kit website,  Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
+      <meta name="description" content="A non profit company driven by sustainability. Spear headed by women for women and the environment, donate second hand clothing, books and bric-a-brac, attend our workshops and learn more about our upcycling projects" />
+      <meta name="keywords" content="nonprofit company, sustainable development, shopping, upcycling, craft, art, second hand, thrift shop," />
 
       <!-- meta data to tell the browser that your devide is responsive -->
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -21,20 +21,20 @@
       <meta name="apple-mobile-web-app-status-bar-style" content="default" />
 
       <!--  Social media sharing META Tags -->
-      <meta property="og:title" content="Media Kit" />
-      <meta property="og:description" content="Get Paid Website Template. Brands will start begging to work with you… no matter your rate! Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
-      <meta property="og:image" content="/images/through-the-lyns-creator.jpeg" />
-      <meta property="og:url" content="https://get-paid-website-template.kingcode.uk/media-kit" />
-      <meta name="twitter:card" content="Get Paid Website Template. Brands will start begging to work with you… no matter your rate! Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
-      <meta name="og:site_name" content="Media Kit" />
+      <meta property="og:title" content="UpswingSA" />
+      <meta property="og:description" content="A non profit company driven by sustainability. Spear headed by women for women and the environment, donate second hand clothing, books and bric-a-brac, attend our workshops and learn more about our upcycling projects" />
+      <meta property="og:image" content="/uploads/untitled-design.png" />
+      <meta property="og:url" content="/" />
+      <meta name="twitter:card" content="A non profit company driven by sustainability. Spear headed by women for women and the environment, donate second hand clothing, books and bric-a-brac, attend our workshops and learn more about our upcycling projects" />
+      <meta name="og:site_name" content="UpswingSA" />
 
       <!-- twitter card -->
-      <meta name="twitter:card" content="Get Paid Website Template. Brands will start begging to work with you… no matter your rate! Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
-      <meta name="twitter:description" content="Get Paid Website Template. Brands will start begging to work with you… no matter your rate! Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
-      <meta name="twitter:title" content="Media Kit" />
-      <meta name="twitter:site" content="https://get-paid-website-template.kingcode.uk/media-kit" />
-      <meta name="twitter:creator" content="Position yourself as a successful and high-paid content creator with our Get Paid Website template. Actually turn your hobby into a career in less than 30 mins with a professional website designed for content creators." />
-      <meta name="twitter:image:alt" content="/images/through-the-lyns-creator.jpeg" />
+      <meta name="twitter:card" content="A non profit company driven by sustainability. Spear headed by women for women and the environment, donate second hand clothing, books and bric-a-brac, attend our workshops and learn more about our upcycling projects" />
+      <meta name="twitter:description" content="A non profit company driven by sustainability. Spear headed by women for women and the environment, donate second hand clothing, books and bric-a-brac, attend our workshops and learn more about our upcycling projects" />
+      <meta name="twitter:title" content="UpswingSA" />
+      <meta name="twitter:site" content="/" />
+      <meta name="twitter:creator" content="Nonprofit company and second hand shop" />
+      <meta name="twitter:image:alt" content="/uploads/untitled-design.png" />
 
       <!-- link to browser icon tag -->
       <link rel="icon" href="/uploads/bde1a027-b37d-4f4b-97cf-05404dc47960.png" type="image/x-icon" />
@@ -329,206 +329,145 @@
     <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[0]">
         <span class="cms-editor-button"></span>
       <style>
-  #content-blocks-0 .background-color 
-    {background: linear-gradient(0deg,#ffffff 50%,#BCCACA 0%);}
-  #content-blocks-0 .border {border: solid 4px #ffffff;}
-
-  #content-blocks-0 .title-1
-    {color: #2f3031;}
-
-  #content-blocks-0 .title-1
-    {font-family: Shrikhand, cursive;}
-
-  #content-blocks-0 .title-2
-    {font-family: Raleway, sans-serif;}
-
-  #content-blocks-0 .title-2
-    {color: #2f3031;}
-
-  #content-blocks-0 .media-kit-line-color
-    {border-top: 1px solid #2f3031;}
-
-  #content-blocks-0 .title-3
-    {font-family: Raleway, sans-serif;}
+  #content-blocks-0 .hover-container .hover-image:hover 
+  {
+  box-shadow: inset 0px 0px 0px 4px ;
+  box-sizing: border-box;
+  } 
     
-  #content-blocks-0 .title-3
-    {color: #2f3031;}
+  #content-blocks-0 .border-hover-image 
+   { 
+   box-shadow: inset 0px 0px 0px 4px ;
+   box-sizing: border-box;
+   border-top-left-radius: ;
+   border-top-right-radius: ;
+   border-bottom-left-radius: ;
+   border-bottom-right-radius: ;
+   }
 
-  #content-blocks-0 .title-4
-    {font-family: Raleway, sans-serif;}
+  #content-blocks-0 .border-mob 
+    {border: 4px solid ;}
 
-  #content-blocks-0 .title-4
-    {color: #2f3031;}
+  #content-blocks-0 .hover-container 
+   {background-color: ;}
 
-  #content-blocks-0 .title-5
-    {font-family: Raleway, sans-serif;}
-
-  #content-blocks-0 .title-5
-    {color: #2f3031;}
-
-  #content-blocks-0 .statistic-data-color
-    {color: #2f3031;}
-
-  #content-blocks-0 .statistic-data-font
-    {font-family: Raleway, sans-serif;}
-
-  #content-blocks-0 .media-kit-border
-    { border: 2px solid #2f3031;}
-
-  #content-blocks-0 .statistic-title-color
-    {color: #2f3031;}
+  #content-blocks-0 .hover-container-mobile 
+   {background-color: ;}
   
-  #content-blocks-0 .statistic-title-font
-    {font-family: Raleway, sans-serif;}
+  #content-blocks-0 .hover-container-mobile p 
+   {font-family: ;}
 
+  #content-blocks-0 .top-hover-overlay 
+   {background-color: ;}
+  
+  #content-blocks-0 .hover-text-color:hover {color: ;}
+
+  #content-blocks-0 .on-mobile-text-color {color: ;} 
+
+  #content-blocks-0 .hover-overlay:hover {background-color: ;}
+
+  #content-blocks-0 .heading-color 
+   {color: ;}
+
+  #content-blocks-0 .heading-font 
+   {font-family: ;}
+
+  #content-blocks-0 .textarea-color 
+   {colors: ;}
+
+  #content-blocks-0 .textarea-font 
+   {font-family: ;}
+  
   #content-blocks-0 .subheading-color
-    {color: #2f3031;}
+   {color: ;}
 
   #content-blocks-0 .subheading-font
-    {font-family: Brushwell;}
+   {font-family: ;}
+   
+  #content-blocks-0 .button-color:hover
+   {
+   background-color: ;
+   color: ;
+   } 
 
-  #content-blocks-0 .textarea-color p
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-font p
-    {font-family: Raleway, sans-serif;}
-
-  #content-blocks-0 .textarea-font h1
-    {font-family: Brushwell;}
-
-  #content-blocks-0 .textarea-color h1
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-font h2
-    {font-family: Brushwell;}
-
-  #content-blocks-0 .textarea-color h2
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-font h3
-    {font-family: Brushwell;}
-
-  #content-blocks-0 .textarea-color h3
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-font h4
-    {font-family: Brushwell;}
-
-  #content-blocks-0 .textarea-color h4
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-font h5
-    {font-family: Brushwell;}
-
-  #content-blocks-0 .textarea-color h5
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-font h6
-    {font-family: Brushwell;}
-    
-  #content-blocks-0 .textarea-color h6
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-color a
-    {color: #2f3031;}
-
-  #content-blocks-0 .textarea-color a:hover
-    {color: #2f3031;}
-
-</style>
-    
-<section id="content-blocks-0" class="center media-kit">
-  <section data-cms-bind class="padded grid-center background-color">
-    <div class="col-4_xs-12 media-kit padded border" style="background-image:url('/images/through-the-lyns-creator.jpeg')"></div>
-      <div class="col-8_xs-12 grid-center padded">
-        <h3 class="col-12 center  title-1">Instagram</h3>
-        <h4 class="col-12 center title-2 no-margin media-kit-padded-bottom ">PETS | PLANTS | LIFTSTYLE</h4>
-        <div class="col-6 media-kit-line-color"> </div>
-        <p class="col-12 center title-3 no-margin follower-number">1000</p>
-        <p class="col-12 center title-4 media-kit-line-height"> followers</p>
-        <p class="col-12 center no-margin username title-5 padded-top">through.the.leaves</p>
-        <div class="grid-center center col-12">
-          <div class="grid-center center col-3_xs-5 padded ">
-            <p class="col-12-middle number center radius media-kit-border statistic-data-font statistic-data-color"> 83%</p>
-            <p class="col-12 center statistic-title-color statistic-title-font ">The UK</p>
-          </div>
-          <div class="grid-center center col-3_xs-5 padded ">
-            <p class="col-12-middle number center radius media-kit-border statistic-data-font statistic-data-color"> 40k</p>
-            <p class="col-12 center statistic-title-color statistic-title-font">Reach</p>
-          </div>
-          <div class="grid-center center col-3_xs-5 padded ">
-            <p class="col-12-middle number center radius media-kit-border statistic-data-font statistic-data-color"> 86%</p>
-            <p class="col-12 center statistic-title-color statistic-title-font">Female</p>
-          </div>
-          <div class="grid-center center col-3_xs-5 padded ">
-            <p class="col-12-middle  number center radius media-kit-border statistic-data-font statistic-data-color"> 9%</p>
-            <p class="col-12 center statistic-title-color statistic-title-font">Engagement</p>
-          </div>
-        </div>
-        <h4 class="col-12 center subheading-color subheading-font ">My Mission</h4>
-        <div class="col-12 center textarea-color textarea-font">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, mollitia iure quasi nostrum pariatur esse aspernatur odit ipsum omnis nobis a, voluptatibus saepe minima vel veritati debitis deleniti, voluptatum totam.</p>
-        </div>
-      </div>  
-  </section>
-</section>
-    
-    <div class="cms-editor-link" data-cms-editor-link="cloudcannon:#content-blocks[1]">
-        <span class="cms-editor-button"></span>
-      <style>
-  #content-blocks-1 .background-color
-  {background-color: #FFFFFF;}
-
-  #content-blocks-1 .square-media
-    {border: 4px solid #FFFFFF;}
-
-  #content-blocks-1 .subheading-color 
-    {color: #2f3031;}
-
-  #content-blocks-1 .subheading-font 
-    {font-family: Brushwell;}
-  
-  #content-blocks-1 .text-background-color 
-    {background-color: #ffffff8f;}
-
-  #content-blocks-1 .text-font 
+  #content-blocks-0 .link-background-color   
     {
-    font-family: Raleway, sans-serif;
-    font-size: 1.3rem;
-    } 
+    background-color: ;
+    color: ;
+    }
 
-  #content-blocks-1 .text-color 
-    {color: #2f3031;}
+@media(max-width:768px) 
+  {
+    #content-blocks-0 .radius 
+      {
+      border-top-left-radius: ;
+      border-top-right-radius: ;
+      border-bottom-left-radius: ;
+      border-bottom-right-radius: ;
+      }  
+  }
 
 @media(max-width:576px) 
- {
-  #content-blocks-1 .text-font 
-    {font-size: 1rem;} 
- }
+  {
+    #content-blocks-0 .radius 
+      {
+      border-top-left-radius: ;
+      border-top-right-radius: ;
+      border-bottom-left-radius: ;
+      border-bottom-right-radius: ;
+      } 
+  }
+  
+  
 </style>
 
-<section id="content-blocks-1">
-  <section data-cms-bind class="padded-sides  media-kit background-color">
-    <div id="" class="grid background-color media-kit-gallery-with-link">
-      <h4 class="col-12 subheading-font subheading-color padded-top">Previous Projects</h4>
-      <a href="https://www.instagram.com/p/CUfI-RjsiLk/?utm_source=ig_web_copy_link" target="_blank" class="square-media col-3_sm-6" style="background-image:url(/images/media-kit-collab.JPG); ">
-        <p class="text-background-color text-font text-color">Client - Le Metropolitan</p>
-      </a>  
-    
-      <a href="https://www.instagram.com/p/CKWeaFPsxNq/?utm_source=ig_web_copy_link" target="_blank" class="square-media col-3_sm-6" style="background-image:url(/images/media-kit-leafico.JPG); ">
-        <p class="text-background-color text-font text-color">Client - Leafico</p>
-      </a>
-
-      <a href="https://www.instagram.com/p/CEwWzWUMDb6/?utm_source=ig_web_copy_link" target="_blank"  class="square-media col-3_sm-6" style="background-image:url(/images/media-kit-spudsy.JPG); ">
-        <p class="text-background-color text-font text-color">Client - Spudsy</p>
-      </a>
-
-      <a href="https://www.instagram.com/p/CHQGh6xM5to/?utm_source=ig_web_copy_link" target="_blank"  class="square-media col-3_sm-6" style="background-image:url(/images/media-kit-isopure.JPG); ">
-        <p class="text-background-color text-font text-color">Client - Isopure</p>
-      </a>
+<section id="content-blocks-0" class="center fig-and-zuko">
+  <div id="" class="grid">
+    <div class="col-6_sm-12">
+      <div class="hover-container" style="background-image:url('')">
+        <div class="top-hover-overlay">
+          <div class="hover-inner">
+            <h2 class="heading-color heading-font">  </h2>
+            <p class="textarea-color textarea-font padded"> </p> 
+              <a href="" class=" button-color"> <b></b></a>
+          </div>
+        </div>
+      </div>
     </div>
-  </section>  
+    <div class="col-6_sm-12 mob-hide ">
+      <div class="hover-container padded">
+        <div class="hover-image radius inner-border border-hover-image " style="background-image:url(''); ">
+          <div class="hover-overlay  hover-text-color ">
+            <div class="hover-inner">
+              <h3 class="subheading-font">  </h3>
+              <p class="textarea-font padded"> </p> 
+                <a href="" class="button-color"> <b></b></a>
+            </div>
+          </div>
+        </div> 
+      </div>
+    </div>
+    <div class="col-6_sm-12-middle desktop-hide">
+      <div class="hover-container-mobile padded">
+        <div class="hover-image radius border-mob" style="background-image:url(''); ">
+          <div class="container-color radius grid-middle">
+            <h3 class="col-12 subheading-font subheading-color padded">   
+              <p class="col-12 padded textarea-font centered read-more-button" data-target="read-more-section-2-0"> Read <span></span>
+              </p>
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="read-more" class=" col-12 hover-container-mobile padded desktop-hide" >
+      <p class="hidden on-mobile-text-color  read-more-section" id="read-more-section-2-0" data-section="read-more-section-2-0"><br>
+        <a href="" class="button-color link-background-color"> <b></b></a>
+      </p>
+    </div>
+  </div>    
 </section>
+
+
     
 
     <footer class="grid-center center padded-top footer-background-color featured-bg">
